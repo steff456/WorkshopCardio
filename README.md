@@ -2,7 +2,7 @@
 
 The main objective of this workshop is to explore the transition from a Jupyter notebook to a Python package using Spyder as IDE. To do this, we will work on understanding a optimization model to determine the compliance of a cardiovascular graft using Python libraries like `Sympy` and `NumPy`. The model was first developed in a Jupyter notebook, but now we want to distribute it as a program with parameters that can be used by any system terminal. For more information on this particular optimization model, there is more information in the available slides [here](XXXXX)
 
-After completing this workshop you will be able to achieve the following XXXX activities,
+After completing this workshop you will be able to achieve the following 5 activities,
 
 1. Open and edit a project in Spyder.
 2. Run the Code Analysis using Spyder.
