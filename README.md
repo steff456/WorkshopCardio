@@ -26,7 +26,7 @@ After completing this workshop you will be able to achieve the following 5 activ
 
 ### Creating Anaconda environment
 
-Anaconda installation is required to create a development environment. To install this program please go to this [link] (https://www.anaconda.com/products/individual) and download the installer for your operating system. Once installed, open a system terminal and create a Python 3.8 environment called `t-workshop` as indicated by the following instructions,
+Anaconda installation is required to create a development environment. To install this program please go to this [link](https://www.anaconda.com/products/individual) and download the installer for your operating system. Once installed, open a system terminal and create a Python 3.8 environment called `t-workshop` as indicated by the following instructions,
 
 ```
 conda create -n t-workshop -c conda-forge python = 3.8
@@ -35,7 +35,7 @@ conda activate t-workshop
 
 ### Installing Spyder
 
-Additionally, we will need to install the Spyder editor, we recommend the Spyder installers for Windows or Mac users available [here] (https://github.com/spyder-ide/spyder/releases/tag/v5.1.4). Spyder can also be downloaded from anaconda from a system terminal by following the instruction,
+Additionally, we will need to install the Spyder editor, we recommend the Spyder installers for Windows or Mac users available [here](https://github.com/spyder-ide/spyder/releases/tag/v5.1.4). Spyder can also be downloaded from anaconda from a system terminal by following the instruction,
 
 ```
 conda install spyder -c conda-forge
@@ -49,13 +49,13 @@ The necessary libraries for this workshop are `sympy` and `numpy`, which can be 
 conda install numpy matplotlib scikit-learn pandas -c conda-forge
 ```
 
-**Note:** If you used one of the installers for Mac or Windows of Spyder terminal please follow the instructions to connect our new environment to the Spyder editor available [here] (https://docs.spyder-ide.org/current/faq.html#using-existing-environment).
+**Note:** If you used one of the installers for Mac or Windows of Spyder terminal please follow the instructions to connect our new environment to the Spyder editor available [here](https://docs.spyder-ide.org/current/faq.html#using-existing-environment).
 
 ### Use Binder
 
 If you had problems installing Spyder locally, you can follow this workshop by clicking the button below. This will open a tab in your browser with Spyder and all the necessary packages and materials for it.
 
-[! [Binder] (https://mybinder.org/badge_logo.svg)] (XXXXXXXX)
+[![Binder](https://mybinder.org/badge_logo.svg)](XXXXXXXX)
 
 **Note:** Please note that this is a temporary session, which means that all work done in it will be lost as soon as the Binder tab is closed.
 
@@ -66,7 +66,7 @@ If you are familiar with `git`, please clone the following repository,
 git clone https://github.com/steff456/WorkshopTransposones
 ```
 
-Otherwise, the contents of this workshop can be downloaded from this [link] (XXXXXXX).
+Otherwise, the contents of this workshop can be downloaded from this [link](XXXXXXX).
 
 Once the material is downloaded, start a jupyter notebook server by typing in your system terminal `jupyter notebook` and open the `model.ipynb` notebook, found inside the `workshop` directory. Also, open Spyder using the shortcut available on your computer. Open the workshop in Spyder as a project using the menu `Project> Open Project` and selecting the `cardio-model` folder.
 
