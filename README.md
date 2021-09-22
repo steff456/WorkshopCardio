@@ -66,7 +66,7 @@ If you are familiar with `git`, please clone the following repository,
 git clone https://github.com/steff456/WorkshopTransposones
 ```
 
-Otherwise, the contents of this workshop can be downloaded from this [link](XXXXXXX).
+Otherwise, the contents of this workshop can be downloaded from this [link](https://drive.google.com/file/d/1KsWO3GjdjBGjprOx0uJKw2YIeNTbjinW/view?usp=sharing).
 
 Once the material is downloaded, start a jupyter notebook server by typing in your system terminal `jupyter notebook` and open the `model.ipynb` notebook, found inside the `workshop` directory. Also, open Spyder using the shortcut available on your computer. Open the workshop in Spyder as a project using the menu `Project> Open Project` and selecting the `cardio-model` folder.
 
