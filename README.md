@@ -41,6 +41,8 @@ Additionally, we will need to install the Spyder editor, we recommend the Spyder
 conda install spyder -c conda-forge
 ```
 
+A new way of installation for Spyder involves the use of maxiconda, available in this [link](https://www.maxiconda.org). It brings installers for all the OS systems and will let you install packages and manage environments with support to ARM processors. It uses mamba and the conda-forge channel under the hook and it is developed for final end users.
+
 ### Installing packages
 
 The necessary libraries for this workshop are `sympy` and `numpy`, which can be installed from a terminal as follows,
@@ -55,7 +57,7 @@ conda install numpy matplotlib scikit-learn pandas -c conda-forge
 
 If you had problems installing Spyder locally, you can follow this workshop by clicking the button below. This will open a tab in your browser with Spyder and all the necessary packages and materials for it.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](XXXXXXXX)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/spyder-ide/binder-environments/tree/women-in-bds-conference)
 
 **Note:** Please note that this is a temporary session, which means that all work done in it will be lost as soon as the Binder tab is closed.
 
